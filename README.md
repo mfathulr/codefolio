@@ -16,7 +16,7 @@ Anti-template personal site for a Data & AI Engineer. Built for:
 
 ```bash
 # Navigate to project
-cd apps/development/portfolio
+cd apps/codefolio
 
 # Install dependencies
 npm install
